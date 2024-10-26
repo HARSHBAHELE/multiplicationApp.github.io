@@ -34,4 +34,5 @@ let num2 = Math.ceil(Math.random()*10);
 qustion.innerText = `What is ${num1} multiply by ${num2}?`;
 correctAns = num1 * num2;
 alert1.innerText="";
+    input.value="";
 })
